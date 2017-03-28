@@ -38,11 +38,15 @@ margin-bottom: 45px;
     font-size: 12px;
     letter-spacing: 5px;
 }
-/*.navbar-nav  li a:hover {
-    color: black !important;
-}*/
+.navbar-nav  li a:hover {
+    color: white !important;
+}
 
-.navbar-nav .navbar-brand:hover,
-.navbar-nav .navbar-brand:focus {
-    color: #000;
+#mepic {
+    display:inline;
+    margin: 40px;
+}
+
+.h3 {
+    color: #006666;
 }
