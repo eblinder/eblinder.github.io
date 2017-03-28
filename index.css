@@ -10,7 +10,7 @@ font-size: 16px;
 margin-bottom: 45px;
 }
 .bg-1 { 
-    background-color: #004d4d; /* Dark Teal */
+    background-color: #50394c; /* Dark Purple */
     color: #ffffff;
 }
 .bg-2 { 
@@ -39,7 +39,7 @@ margin-bottom: 45px;
     letter-spacing: 5px;
 }
 .navbar-nav  li a:hover {
-    color: white !important;
+    color: #50394c !important;
 }
 
 #mepic {
